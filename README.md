@@ -1,2 +1,2 @@
-# ReduxApplication-Demo
+# React-Redux-CartApp
 Created with CodeSandbox
